@@ -24,6 +24,7 @@ public class Demo {
 		driver.manage().window().maximize();
 		
 		System.out.println("Bye Bye");
+		System.out.println("Welcome");
 
 	}
 
