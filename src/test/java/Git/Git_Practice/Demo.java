@@ -22,6 +22,8 @@ public class Demo {
 		driver.get("https://web.whatsapp.com/");
 
 		driver.manage().window().maximize();
+		
+		System.out.println("Bye Bye");
 
 	}
 
